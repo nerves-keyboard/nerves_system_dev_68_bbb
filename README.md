@@ -1,3 +1,9 @@
+# Customized
+
+This system is customized for the Dev-68 nerves keyboard development board. The
+primary branch is `dev-68` whereas `main` tracks upstream's main branch. To
+update, pull main from upstream and rebase `dev-68` on it.
+
 # Generic BeagleBone Support
 
 [![CircleCI](https://circleci.com/gh/nerves-project/nerves_system_bbb.svg?style=svg)](https://circleci.com/gh/nerves-project/nerves_system_bbb)
