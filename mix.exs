@@ -1,8 +1,8 @@
-defmodule NervesSystemBbb.MixProject do
+defmodule NervesSystemDev68Bbb.MixProject do
   use Mix.Project
 
-  @github_organization "nerves-project"
-  @app :nerves_system_bbb
+  @github_organization "ElixirSeattle"
+  @app :nerves_system_dev_68_bbb
   @version Path.join(__DIR__, "VERSION")
            |> File.read!()
            |> String.trim()
