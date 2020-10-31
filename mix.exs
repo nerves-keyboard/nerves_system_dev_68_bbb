@@ -1,7 +1,7 @@
 defmodule NervesSystemDev68Bbb.MixProject do
   use Mix.Project
 
-  @github_organization "ElixirSeattle"
+  @github_organization "nerves-keyboard"
   @app :nerves_system_dev_68_bbb
   @version Path.join(__DIR__, "VERSION")
            |> File.read!()
